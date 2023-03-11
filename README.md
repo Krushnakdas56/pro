@@ -1,2 +1,3 @@
 # profile
-It consist my resume
+## It consist my resume.
+## Please go through it
